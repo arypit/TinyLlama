@@ -1,6 +1,6 @@
 <div align="center">
 
-# TinyLlama-1.1B
+# Bel-1.7B(aka TinyLlama)
 English | [中文](README_zh-CN.md)
 
 [Chat Demo](https://huggingface.co/spaces/TinyLlama/tinyllama-chat) | [Discord](https://discord.gg/74Wcx4j5Nb)
