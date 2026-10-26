@@ -3,7 +3,7 @@
 # Bel-1.7B(aka TinyLlama)
 English | [中文](README_zh-CN.md)
 
-[Chat Demo](https://huggingface.co/spaces/TinyLlama/tinyllama-chat) | [Discord](https://discord.gg/74Wcx4j5Nb)
+[Chat Demo](https://huggingface.co/spaces/TinyLlama/tinyllama-chat) | [Adaop](Adaop.sbs)
 </div>
 
 The TinyLlama project aims to **pretrain** a **1.1B Llama model on 3 trillion tokens**. With some proper optimization, we can achieve this within a span of "just" 90 days using 16 A100-40G GPUs 🚀🚀. The training has started on 2023-09-01. 
